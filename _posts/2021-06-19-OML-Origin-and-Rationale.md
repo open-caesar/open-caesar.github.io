@@ -2,7 +2,7 @@
 layout: post
 title: "Ontological Modeling Language: Origin and Rationale"
 author: "Steven Jenkinis"
-author_image: stevej.png
+author_image: sjenkins.jpg
 tag: [MBSE, IMCE, CAESAR, OML]
 categories: [IMCE]
 image:

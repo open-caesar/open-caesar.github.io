@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "The IMCE Principles"
-author: "Steve Jenkins"
-author_image: stevej.png
+author: "Steven Jenkins"
+author_image: sjenkins.jpg
 tag: [MBSE, IMCE, CAESAR]
 categories: [IMCE]
 image:
